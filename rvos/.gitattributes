@@ -1,0 +1,5 @@
+rvos-nginx.tar.gz filter=lfs diff=lfs merge=lfs -text
+rvos-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+rvos-gcc.tar.gz filter=lfs diff=lfs merge=lfs -text
+rvos-minbase.tar.gz filter=lfs diff=lfs merge=lfs -text
+rvos-ncnn.tar.gz filter=lfs diff=lfs merge=lfs -text
